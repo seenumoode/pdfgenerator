@@ -12,7 +12,7 @@ Setup
 
 Clone the Repository:
 
-git clone <repository-url>
+git clone git@github.com:seenumoode/pdfgenerator.git
 cd pdfgenerator
 
 Install Dependencies:
